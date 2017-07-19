@@ -6,10 +6,10 @@ eureka:
 
 ---
 spring:
-  profiles: article
+  profiles: lab-4-article-article
 words: a,the
 
 ---
 spring:
-  profiles: adjective
+  profiles: lab-4-adjective-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
