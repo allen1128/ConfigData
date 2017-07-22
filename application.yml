@@ -11,5 +11,5 @@ words: a,the
 
 ---
 spring:
-  profiles: lab-4-adjective-adjective
-words: aa
+  profiles: lab-4-adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
